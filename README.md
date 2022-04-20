@@ -1,1 +1,2 @@
-# rust-sandbox
+# Rust-Sandbox
+Sandbox to test out reust libraries.
